@@ -15,7 +15,7 @@ int  main()
 	cout << "\t\t\t\t\t\tHe said be true, I swear I'll try" << endl;
 	cout << "\t\t\t\t\t\tIn the end, it's him and I" << endl;
 	cout << "\t\t\t\t\t\tHe's out his head, I'm out my mind" << endl;
-	cout << "\t\t\t\t\t\tWe got that love, the crazy kind" << endl;
+	cout << "\t\t\t\t\t\tWe got that love, the crazy kind" << endl; 
 	cout << "\t\t\t\t\t\tI am his, and he is mine" << endl;
 	cout << "\t\t\t\t\t\tIn the end, it's him and I, him and I" << endl;
 }
