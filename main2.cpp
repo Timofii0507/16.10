@@ -2,7 +2,7 @@
 #include <Windows.h>
 using namespace std;
 
-int main2()
+int main()
 {
 	HANDLE output = GetStdHandle(STD_OUTPUT_HANDLE);
 	SetConsoleTextAttribute(output, 12);

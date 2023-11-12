@@ -2,7 +2,7 @@
 #include <Windows.h>
 using namespace std;
 
-int  main3()
+int  main()
 {
 	//SetConsoleCP(1251);
 	//SetConsoleOutputCP(1251);
